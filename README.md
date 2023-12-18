@@ -21,7 +21,7 @@
 
 ###
 
-<p align="left">I'm Wolfy6848 from United Kingdom<br><br>- 📚 I'm currently learning HTML CSS and python<br>- ⚡ In my free time I Try to learn more html and css</p>
+<p align="left">I'm Wolfy6848 from United Kingdom<br><br>- 📚 I'm currently learning python, js and C++<br>- ⚡ In my free time I Like to complain</p>
 
 ###
 
@@ -36,6 +36,10 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="html5 logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
@@ -49,16 +53,6 @@
   <img src="https://skillicons.dev/icons?i=selenium" height="40" alt="selenium logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Wolfy6848&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
